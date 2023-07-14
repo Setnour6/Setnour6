@@ -5,7 +5,7 @@ I am also born in 2004.
 I make and contribute to Terraria Modifications, and I am also a musician, photo editor, video editor, audio editor, and songwriter.
 YouTube (and of course, GitHub) is the best place to contact me, as I am the most active there. Click the button below, or search "Setnour6" on YouTube.
 
-<a href="https://www.youtube.com/channel/setnour6"/>
+<a href="https://www.youtube.com/setnour6"/>
     <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/streaming/youtube.svg" alt="youtube: Setnour6" style="vertical-align:top; margin:4px">
   </a>
 
